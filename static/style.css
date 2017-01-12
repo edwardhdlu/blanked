@@ -1,0 +1,134 @@
+@font-face {
+  font-family: "Gotham";
+  src: url(fonts/Gotham-Light.ttf) format("truetype");
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Gotham";
+  src: url(fonts/Gotham-Book.ttf) format("truetype");
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Gotham";
+  src: url(fonts/Gotham-Medium.ttf) format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Gotham";
+  src: url(fonts/Gotham-Bold.ttf) format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Gotham";
+  src: url(fonts/Gotham-Black.ttf) format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+body {
+	margin: 0;
+	font-family: "Gotham";
+	font-weight: 200;
+	height: 100vh;
+	width: 100vw;
+	box-sizing: border-box;
+	background-color: #1f2432;
+}
+
+.upper {
+	height: 80vh;
+	position: relative;
+}
+
+.lower {
+	height: 20vh;
+	position: relative;
+}
+
+.score {
+	font-size: 36px;
+	margin-top: 24px;
+	text-align: center;
+	float: left;
+	width: 100%;
+	color: #eaeaea;
+}
+
+.info {
+	position: absolute;
+	right: 20%;
+	bottom: 48px;
+	text-align: right;
+	line-height: 150%;
+	color: #eaeaea;
+}
+
+.question {
+	width: 60%;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translateX(-50%) translateY(-50%);
+	text-align: center;
+	font-size: 36px;
+	font-weight: 300;
+	line-height: 150%;
+	color: #02A8F3;
+}
+
+.answers {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	text-align: center;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translateX(-50%) translateY(-50%);
+	width: 100%;
+}
+
+.answers li {
+	display: inline-block;
+	margin: 0 24px;
+}
+
+.answers li a {
+	text-decoration: none;
+	text-transform: uppercase;
+	color: #02A8F3;
+	font-weight: 400;
+}
+
+.answers li a:hover {
+
+}
+
+.answers li::before {
+	content: "A) ";
+	color: #eaeaea;
+}
+
+.answers li:nth-child(2)::before {
+	content: "B) ";
+}
+
+.answers li:nth-child(3)::before {
+	content: "C) ";
+}
+
+.answers li:nth-child(4)::before {
+	content: "D) ";
+}
+
+.answers li:nth-child(5)::before {
+	content: "E) ";
+}

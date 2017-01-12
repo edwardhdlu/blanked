@@ -1,0 +1,33 @@
+<!doctype>
+<html>
+<head>
+	<link rel=stylesheet type=text/css href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+	<div class="upper">
+		<div class="score">
+			<b>{{ score[0] }} / {{ score[1] }}</b>
+		</div>
+		<div class="question">
+			{{ doc.question }}
+		</div>
+
+		<div class="info">
+			<i>
+				{{ doc.title }}
+			</i>
+			<br>
+			{{ doc.author }}
+		</div>
+	</div>
+	<div class="lower">
+		<ul class="answers">
+			{% for option in doc.options %}
+				<li>
+					<a href="{{ url_for('answer', value=option) }}">{{ option }}</a>
+				</li>
+			{% endfor %}
+		</ul>
+	</div>
+</body>
+</html>

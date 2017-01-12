@@ -1,0 +1,163 @@
+An Affair of State::Guy de Maupassant
+Afterward::Edith Wharton
+The Ambitious Guest::Nathaniel Hawthorne
+Araby::James Joyce
+The Baron of Grogswig::Charles Dickens
+Bellflower::Guy de Maupassant
+The Bet::Anton Pavlovich Chekhov
+Beware of the Dog::Roald Dahl
+Beyond the Wall::Ambrose Bierce
+The Black Cat::Edgar Allan Poe
+A Blackjack Bargainer::O. Henry
+The Boarded Window::Ambrose Bierce
+The Burial of the Guns::Thomas Nelson Page
+A Burlesque Biography::Mark Twain
+The Cask of Amontillado::Edgar Allan Poe
+The Celebrated Jumping Frog of Calaveras County::Mark Twain
+A Child's Christmas in Wales::Dylan Thomas
+The Christening::Guy de Maupassant
+Clay::James Joyce
+Coco::Guy de Maupassant
+The Coming-Out of Maggie::O. Henry
+Confessing::Guy de Maupassant
+The Consul::Richard Harding Davis
+A Coward::Guy de Maupassant
+The Darling::Anton Pavlovich Chekhov
+A Day in the Country::Anton Pavlovich Chekhov
+A Dead Woman's Secret::Guy de Maupassant
+Death Makes a Comeback::James O'Keefe
+Denis::Guy de Maupassant
+A Descent Into the Maelstrom::Edgar Allan Poe
+The Devil::Guy de Maupassant
+The Donkey::Guy de Maupassant
+The Door::E. B. White
+The Door in the Wall::H. G. Wells
+The Dowry::Guy de Maupassant
+The Drunkard::Guy de Maupassant
+The Elephant's Child::Rudyard Kipling
+The End of the Party::Graham Greene
+Ethan Brand::Nathaniel Hawthorne
+Eva Is Inside Her Cat::Gabriel Garcia Marquez
+Eyes of a Blue Dog::Gabriel Garcia Marquez
+The Facts in the Case of M. Valdemar::Edgar Allan Poe
+The Fall of the House of Usher::Edgar Allan Poe
+The Falls::George Saunders
+A Family::Guy de Maupassant
+Farewell::Guy de Maupassant
+The Father::Guy de Maupassant
+The Fiddler::Herman Melville
+The First Christmas Tree::Henry Van Dyke
+Friend Patience::Guy de Maupassant
+The Garden Party::Katherine Mansfield
+The Gift of the Magi::O. Henry
+The Girls in Their Summer Dresses::Irwin Shaw
+The Golden Honeymoon::Ring Lardner
+The Great Carbuncle::Nathaniel Hawthorne
+The Griffin and the Minor Canon::Frank Stockton
+Haircut::Ring Lardner
+The Hairpin::Guy de Maupassant
+The Hand::Guy de Maupassant
+A Haunted House::Virginia Woolf
+A Horseman in the Sky::Ambrose Bierce
+How Santa Claus Came to Simpson's Bar::Bret Harte
+How the Leopard Got His Spots::Rudyard Kipling
+A Humble Drama::Guy de Maupassant
+Humiliation::Guy de Maupassant
+Hunters in the Snow::Tobias Wolff
+The Imp of the Perverse::Edgar Allan Poe
+In the Red Room::Paul Bowles
+In the Wood::Guy de Maupassant
+Indiscretion::Guy de Maupassant
+The Inn::Guy de Maupassant
+Italian with Grammar::Mark Twain
+Italian without a Master::Mark Twain
+Julie Romain::Guy de Maupassant
+The Kiss::Guy de Maupassant
+The Lady, or the Tiger?::Frank Stockton
+Lamb to the Slaughter::Roald Dahl
+The Last Leaf::O. Henry
+The Last Spin::Evan Hunter
+Leiningen Versus the Ants::Carl Stephenson
+The Lightning-Rod Man::Herman Melville
+A Little Cloud::James Joyce
+The Lottery::Shirley Jackson
+The Lottery Ticket::Anton Pavlovich Chekhov
+Luck::Mark Twain
+The Luck of Roaring Camp::Bret Harte
+Madame Parisse::Guy de Maupassant
+Mademoiselle Fifi::Guy de Maupassant
+Mademoiselle Pearl::Guy de Maupassant
+Man From the South::Roald Dahl
+Marjorie Daw::Thomas Bailey Aldrich
+Markheim::Robert Louis Stevenson
+The Marquis de Fumerol::Guy de Maupassant
+The Masque of the Red Death::Edgar Allan Poe
+Mateo Falcone::Prosper Merimee
+Mesmeric Revelation::Edgar Allan Poe
+The Minister's Black Veil::Nathaniel Hawthorne
+Miss Harriet::Guy de Maupassant
+Misti--Recollections of a Bachelor::Guy de Maupassant
+The Monkey's Paw::W. W. Jacobs
+Moonlight::Guy de Maupassant
+The Most Dangerous Game::Richard Connell
+The Mouse::H. H. Munro
+Mrs. Packletide's Tiger::H. H. Munro
+The Necklace::Guy de Maupassant
+An Occurrence at Owl Creek Bridge::Ambrose Bierce
+Old Mongilet::Guy de Maupassant
+One of These Days::Gabriel Garcia Marquez
+The Open Window::H. H. Munro
+A Passion in the Desert::Honore de Balzac
+Paul's Case::Willa Cather
+A Piece of Steak::Jack London
+The Piece of String::Guy de Maupassant
+The Pit and the Pendulum::Edgar Allan Poe
+Politics and the English Language::George Orwell
+The Poor Relation's Story::Charles Dickens
+The Premature Burial::Edgar Allan Poe
+The Princess and the Puma::O. Henry
+The Private History of a Campaign That Failed::Mark Twain
+The Purloined Letter::Edgar Allan Poe
+The Ransom of Red Chief::O. Henry
+Rappaccini's Daughter::Nathaniel Hawthorne
+Rikki-Tikki-Tavi::Rudyard Kipling
+Rip Van Winkle (A Posthumous Writing of Diedrich Knickerbocker)::Washington Irving
+The Rocking-Horse Winner::D. H. Lawrence
+Shooting an Elephant::George Orwell
+A Slander::Anton Pavlovich Chekhov
+The Sniper::Liam O'Flaherty
+The Soldier's Peaches::Stuart Cloete
+Souls Belated::Edith Wharton
+Split Cherry Tree::Jesse Stuart
+Sredni Vashtar::H. H. Munro
+The Storyteller (Saki)::H. H. Munro
+The Stranger::Katherine Mansfield
+The Strangers That Came to Town::Ambrose Flack
+The Street That Got Mislaid::Patrick Waddington
+A Telephone Call::Dorothy Parker
+A Telephonic Conversation::Mark Twain
+The Tell-Tale Heart::Edgar Allan Poe
+Tennessee's Partner::Bret Harte
+That Pig of a Morin::Guy de Maupassant
+Theodule Sabot's Confession::Guy de Maupassant
+The Thousand-And-Second Tale of Scheherazade::Edgar Allan Poe
+Timbuctoo::Guy de Maupassant
+The Time Machine::H. G. Wells
+To Build a Fire::Jack London
+Toine::Guy de Maupassant
+Two Little Soldiers::Guy de Maupassant
+The Unknown::Guy de Maupassant
+The Use of Force::William Carlos Williams
+Useless Beauty::Guy de Maupassant
+A Vagabond::Guy de Maupassant
+A Vendetta::Guy de Maupassant
+The Vertical Fields::Fielding Dawson
+Von Kempelen and His Discovery::Edgar Allan Poe
+Waiter, a Bock!::Guy de Maupassant
+Was it Heaven? Or Hell?::Mark Twain
+The Wedding-Knell::Nathaniel Hawthorne
+What Occurred at Franklin::Ambrose Bierce
+The Whirligig of Life::O. Henry
+The Wreck::Guy de Maupassant
+Young Goodman Brown::Nathaniel Hawthorne
+Yvette::Guy de Maupassant
